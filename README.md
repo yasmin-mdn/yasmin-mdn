@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yasmin
-- 💻A computer engineering student who is interested in learning new things
-- 👀I know that I know nothing
+- 💻A Computer Science Master student who is interested in learning new things
 
 
 <!---
